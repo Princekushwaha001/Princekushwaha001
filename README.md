@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Princekushwaha001
+- 👋 Hi, I’m @PrinceKushwaha
 - 👀 I’m interested in AI/ML, Data Engineering, and Full-Stack Web Development.
 - 🌱 I’m currently learning Data Quality Analysis, SQL optimization, and deploying scalable web apps.
 - 💞️ I’m looking to collaborate on AI projects, web platforms, data-driven application, and innovative projects solving real-world problems.
